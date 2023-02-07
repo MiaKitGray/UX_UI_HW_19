@@ -1,0 +1,98 @@
+
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+  }
+  .logo {
+    width: 100%;
+    height: 550px;
+    padding: 1%;
+    text-align: center;
+  }
+  .wrapper {
+    width: 1920px;
+    margin-bottom: 0%;
+    margin-top: 0%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  nav {
+    width: 100%;
+    padding: 1%;
+  }
+  ul {
+    width: 50%;
+    margin-left: auto;
+    text-align: right;
+  }
+ 
+  .heroImg {
+    height: 600px;
+    padding: 25px;
+  }
+  .content {
+    width: 500px;
+    margin: 0 auto;
+  }
+  footer {
+    background-color: #FF8364;
+    font-size: 15pt
+    text-align:center;
+    padding: 10px;
+  }
+  
+  footer ul {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+  }
+
+  footer ul {
+    display: inline-block;
+    vertical-align: top;
+    padding: 20px;
+  }
+  
+  footer li {
+    list-style: none;
+    display: inline-block;
+    padding: 10px 20px;
+    text-align: center;
+  }
+  nav {
+    display: flex;
+    justify-content: center;
+    background-color:#FF8364;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin: 10px;
+  }
+  
+  nav a {
+    color: black;
+    text-decoration: none;
+  }
+.font {
+    font-family: 'Libre Bodoni', serif;
+    font-size: 12pt;
+}
+  
+body{
+    background-color:#F3DCAD;
+}
+h1, h3 {
+    padding: 2%;
+    text-align: center;
+}
